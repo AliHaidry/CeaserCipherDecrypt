@@ -22,7 +22,7 @@ int main()
             for (int counter = 0; counter < PROG_LOOPING_VALUE; counter++ )
             {
                string textDecrypt;
-               cout << "Enter the string without any spaces !" << endl;
+               cout << "Enter the string to decrypt without any spaces !" << endl;
                cin >> textDecrypt;
                cout << endl;
 
