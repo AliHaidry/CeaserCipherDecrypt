@@ -3,7 +3,9 @@
 
 using namespace std;
 
-
+/*
+* KEY : use the inverse of the Caesar cipher key which is always “26-x”. Then move the inverse to the right.  
+*/
 
 // function prototype
 
